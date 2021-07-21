@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "appchimnc66107a6": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
